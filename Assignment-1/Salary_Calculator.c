@@ -16,5 +16,5 @@ int main()
     float final = salary + allowance + bonus;
     printf("final salary:%.2f\n", final);
     
-    return 0;
+ return 0;
 }
