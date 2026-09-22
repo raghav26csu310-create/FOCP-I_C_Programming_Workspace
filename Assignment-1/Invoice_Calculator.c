@@ -27,5 +27,5 @@ int main()
     int final = subtotal - discount;
     printf("Final Payable Amount:%d\n", final);
 
-    return 0;
+ return 0;
 }
