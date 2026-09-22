@@ -17,5 +17,5 @@ int main()
     int remainder = first % second;
     printf("remainder:%d\n", remainder);
 
-    return 0;
+ return 0;
 }
