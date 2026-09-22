@@ -25,5 +25,5 @@ int main()
     float percentage = ((first + second + third + fourth + fifth) * 100) / 500;
     printf("percentage:%f\n", percentage);
 
-    return 0;
+ return 0;
 }
