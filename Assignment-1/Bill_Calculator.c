@@ -11,5 +11,6 @@ int main()
 
     bill = price * quantity;
     printf("total bill:%f\n", bill);
-    return 0;
+
+ return 0;
 }
