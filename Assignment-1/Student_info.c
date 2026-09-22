@@ -22,5 +22,6 @@ int main()
     printf("Age:%d\n", age);
     printf("Percentage:%f\n", percentage);
     printf("Grade:%c\n", grade);
-    return 0;
+
+  return 0;
 }
