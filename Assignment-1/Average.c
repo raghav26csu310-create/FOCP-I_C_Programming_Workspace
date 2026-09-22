@@ -9,5 +9,5 @@ int main()
     float average = (first + second + third) / 3;
     printf("output:Averge = %.2f", average);
 
-    return 0;
+ return 0;
 }
