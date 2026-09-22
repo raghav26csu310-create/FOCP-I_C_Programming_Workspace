@@ -5,6 +5,7 @@ int main()
     int age;
     float height;
     char grade;
+    
     printf("enter your age:");
     scanf("%d", &age);
 
@@ -17,5 +18,6 @@ int main()
     printf("Age:%d\n", age);
     printf("Height(in meters):%f\n", height);
     printf("Grade:%c\n", grade);
-    return 0;
+
+ return 0;
 }
