@@ -45,5 +45,6 @@ int main()
         printf("the output is:%.2f", result);
         break;
     }
-    return 0;
+
+ return 0;
 }
