@@ -11,7 +11,7 @@ int main()
         bill = 200 + (units - 100) * 3;
     else
         bill = 500 + (units - 200) * 5;
-
+        
     printf("%d", bill);
 
     return 0;

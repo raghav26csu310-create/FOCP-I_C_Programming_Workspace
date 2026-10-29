@@ -11,6 +11,5 @@ int main()
         printf("E");
     else
         printf("N");
-
     return 0;
 }
